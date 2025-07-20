@@ -4,7 +4,7 @@ package com.company;
 
             public static void main(String[] args) {
                 // write your code here
-                System.out.println("*(النتيجة حقي حق الترم الاول)*");
+                System.out.println("*(برنامج يقوم بعرض نتيجة احد الطلاب)*");
                 System.out.println("------------------------------------");
 
 
